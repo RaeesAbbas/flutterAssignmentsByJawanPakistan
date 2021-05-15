@@ -10,7 +10,8 @@ class MyApp extends StatelessWidget {
       title: 'Hello World Demo Application',
       home: (Scaffold(
         body: Text(
-            'Hello world , Welcome to Flutter App Development Course By Jawan Pakistan '),
+          'Hello world , Welcome to Flutter App Development Course By Jawan Pakistan ',
+        ),
       )),
     );
   }
